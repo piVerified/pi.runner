@@ -1,15 +1,16 @@
-# pi.plug
+# pi.runner
 
-meet pi.plug, my custom designed smart plug and first IoT project, all thanks to the nice peeps at Hack Club! This smart plug lets you control devices remotely, monitor power usage, and automate your home.
+pi.runner is a BLE IoT device, that turns my noemal 'dumb' treadmill into a smart treadmil that connects to google health and reads the distance covered and my pase accurately 
 
 ---
 # Features
 
-1. Remote on/off control via Wi-Fi
-2. Power usage monitoring
-3. Automation and scheduling support
-4. Compact 3D printed enclosure
-
+1. Tap-to-Wake
+2. NFC Mode Trigger
+4. Real-Time Speed Tracking
+5. Precision Distance Logging
+6. Automatic Workout Saving
+7. Smart Home Integration
 
 ## Fusion 360
 
