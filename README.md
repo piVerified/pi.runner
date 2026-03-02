@@ -2,6 +2,7 @@
 
 pi.runner is a BLE IoT device, that turns my noemal 'dumb' treadmill into a smart treadmil that connects to google health and reads the distance covered and my pase accurately 
 
+##### This device directly integrates into my old treadmil through handwitring, it will draw power forom the treadmil console's 2x AA batteris, which voltage is steppded up via voltage booster, also the inbuild reed switch magnetic sensor of the tradmill will be hoked directly to my custom made pcb.
 ---
 # Features
 
@@ -25,7 +26,13 @@ pi.runner is a BLE IoT device, that turns my noemal 'dumb' treadmill into a smar
 
 | Schematic | PCB |
 | :-------: | :-: |
-| *(coming soon)* | *(coming soon)* |
+| ![schematic](https://github.com/piVerified/pi.runner/blob/main/assets/Screenshot%202026-03-02%20123413.png) | ![PCB](https://github.com/piVerified/pi.runner/blob/main/assets/Screenshot%202026-03-02%20123309.png) |
+
+---
+Adittion to pcb two more module will be needed to be connected to the pcb but will be handwired as i could not find any symbol of footprint for them 
+| CKT Diagram |  
+| :--: | 
+| *(coming soon)* | 
 
 ---
 # Softwares Used
